@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I Am Satyam. A Full Stack Developer From Delhi NCR.
+Hey! I Am Satyam Pandey. A Full Stack Developer From Delhi NCR. 
 
 
 ## 🌐 Socials:
