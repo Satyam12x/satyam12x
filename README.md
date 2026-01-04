@@ -7,7 +7,7 @@
 ### 👨‍💻 _Building the bridge between Complex AI & Intuitive UI_
 
 [![Linkedin Badge](https://img.shields.io/badge/-Satyam_Pandey-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/satyam-pandey-301061272)
-[![Mail Badge](https://img.shields.io/badge/-your.email@example.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![Mail Badge](https://img.shields.io/badge/-ofcsatyam007@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1f2328?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
